@@ -137,34 +137,34 @@ https://youtu.be/QUtPsQ_uSD4?si=FhabPkZaws6PcziG
 
 ##### Listado de módulos populares para Python que se pueden instalar con pip:Listado de módulos populares para Python que se pueden instalar con pip:
 
-- **NumPy: **Biblioteca para computación numérica y análisis de datos. Instalar con: pip install numpy
+- **NumPy**: Biblioteca para computación numérica y análisis de datos. Instalar con: pip install numpy
 
-- **Pandas: **Biblioteca para análisis y manipulación de datos en formato tabla. Instalar con: pip install pandas
+- **Pandas**: Biblioteca para análisis y manipulación de datos en formato tabla. Instalar con: pip install pandas
 
 
-- **Matplotlib: **Biblioteca para crear gráficos 2D y visualizar datos. Instalar con: pip install matplotlib
+- **Matplotlib**: Biblioteca para crear gráficos 2D y visualizar datos. Instalar con: pip install matplotlib
 
-- **Scikit-Learn:** Biblioteca para aprendizaje automático y machine learning. Instalar con: pip install scikit-learn
+- **Scikit-Learn**: Biblioteca para aprendizaje automático y machine learning. Instalar con: pip install scikit-learn
 
-- **TensorFlow:** Biblioteca para aprendizaje automático y deep learning, desarrollada por Google. Instalar con: pip install tensorflow
+- **TensorFlow**: Biblioteca para aprendizaje automático y deep learning, desarrollada por Google. Instalar con: pip install tensorflow
 
-- **BeautifulSoup:** Biblioteca para web scraping y parsing de HTML y XML. Instalar con: pip install beautifulsoup4
+- **BeautifulSoup**: Biblioteca para web scraping y parsing de HTML y XML. Instalar con: pip install beautifulsoup4
 
-- **Requests: **Biblioteca para hacer solicitudes HTTP y trabajar con APIs. Instalar con: pip install requests
+- **Requests**: Biblioteca para hacer solicitudes HTTP y trabajar con APIs. Instalar con: pip install requests
 
-- **Kivy:** Biblioteca para desarrollo de aplicaciones móviles y desktop con Python. Instalar con: pip install kivy
+- **Kivy**: Biblioteca para desarrollo de aplicaciones móviles y desktop con Python. Instalar con: pip install kivy
 
-- **Scipy:** Biblioteca para ciencia computacional y análisis de datos. Instalar con: pip install scipy
+- **Scipy**: Biblioteca para ciencia computacional y análisis de datos. Instalar con: pip install scipy
 
-- **Statsmodels:** Biblioteca para estadística y análisis de datos. Instalar con: pip install statsmodels
+- **Statsmodels**: Biblioteca para estadística y análisis de datos. Instalar con: pip install statsmodels
 
-- **OpenCV: **Biblioteca para visión por computadora y procesamiento de imágenes. Instalar con: pip install opencv-python
+- **OpenCV**: Biblioteca para visión por computadora y procesamiento de imágenes. Instalar con: pip install opencv-python
 
-- **Seaborn: **Biblioteca para visualización de datos y creación de gráficos. Instalar con: pip install seaborn
+- **Seaborn**: Biblioteca para visualización de datos y creación de gráficos. Instalar con: pip install seaborn
 
-- **NLTK: **Biblioteca para procesamiento de lenguaje natural y análisis de texto. Instalar con: pip install nltk
+- **NLTK**: Biblioteca para procesamiento de lenguaje natural y análisis de texto. Instalar con: pip install nltk
 
-- **Spacy: **Biblioteca para procesamiento de lenguaje natural y análisis de texto, con un enfoque en el procesamiento de lenguaje natural en tiempo real. Instalar con: pip install spacy
+- **Spacy**: Biblioteca para procesamiento de lenguaje natural y análisis de texto, con un enfoque en el procesamiento de lenguaje natural en tiempo real. Instalar con: pip install spacy
 
 #### Cómo instalar módulos con pip:
 1. Verificar la versión de pip ejecutando **pip --version**.
