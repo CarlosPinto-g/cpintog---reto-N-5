@@ -127,6 +127,10 @@ print("Resultado:", resultado)
 
 ###### Pip se comunica con el índice de paquetes de Python (PyPI, Python Package Index), un repositorio centralizado que almacena miles de paquetes de software de Python. Cuando se instala un paquete con pip, este verifica la versión del paquete en PyPI y descarga la versión correspondiente. Luego, pip instala el paquete en el sistema y gestiona las dependencias necesarias para que el paquete funcione correctamente.Pip se comunica con el índice de paquetes de Python (PyPI, Python Package Index), un repositorio centralizado que almacena miles de paquetes de software de Python. Cuando se instala un paquete con pip, este verifica la versión del paquete en PyPI y descarga la versión correspondiente. Luego, pip instala el paquete en el sistema y gestiona las dependencias necesarias para que el paquete funcione correctamente.
 
+Mas información:
+
+https://youtu.be/QUtPsQ_uSD4?si=FhabPkZaws6PcziG
+
 1. Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
 
 
