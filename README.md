@@ -171,12 +171,12 @@ https://youtu.be/QUtPsQ_uSD4?si=FhabPkZaws6PcziG
 
 1. Instalar un módulo especificando su nombre, por ejemplo: **pip install numpy**.
 
-1. Si deseas instalar una versión específica de un módulo, puedes especificarla después del nombre del módulo, por ejemplo:** pip install numpy==1.20.0.
-**
+1. Si deseas instalar una versión específica de un módulo, puedes especificarla después del nombre del módulo, por ejemplo: **pip install numpy==1.20.0**.
 
-1. Para instalar múltiples módulos al mismo tiempo, puedes separarlos con espacios, por ejemplo: **pip install numpy pandas matplotlib.**
 
-1. Si deseas crear un archivo de requisitos** (requirements.txt) **para instalar múltiples módulos de una vez, puedes crear un archivo con la lista de módulos separados por líneas, por ejemplo:
+1. Para instalar múltiples módulos al mismo tiempo, puedes separarlos con espacios, por ejemplo:  **pip install numpy pandas matplotlib**.
+
+1. Si deseas crear un archivo de requisitos **(requirements.txt)** para instalar múltiples módulos de una vez, puedes crear un archivo con la lista de módulos separados por líneas, por ejemplo:
 
 
 ```
@@ -185,11 +185,12 @@ pandas==1.3.5
 matplotlib==3.5.1
 ```
 Luego, ejecutar **pip install -r requirements.txt** para instalar todos los módulos listados en el archivo.
-**
-NOTA:**
+
+ **NOTA:**
 ###### Recuerda que, antes de instalar un módulo, asegúrate de tener Python y pip instalados correctamente en tu sistema.Recuerda que, antes de instalar un módulo, asegúrate de tener Python y pip instalados correctamente en tu sistema.
 
 **Paginas de consulta:**
+
 https://programminghistorian.org/es/lecciones/instalar-modulos-python-pip
 
 https://docs.python.org/es/3/installing/index.html
